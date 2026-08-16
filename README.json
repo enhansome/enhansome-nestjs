@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:27:07Z",
+            "last_commit": "2026-08-15T22:08:12Z",
             "owner": "nestjs",
             "repo": "nest",
-            "stars": 76378
+            "stars": 76389
           }
         },
         {
@@ -38,7 +38,7 @@
                 "last_commit": "2026-04-10T03:26:50Z",
                 "owner": "nestjs",
                 "repo": "typescript-starter",
-                "stars": 2135
+                "stars": 2134
               }
             },
             {
@@ -192,7 +192,7 @@
             "last_commit": "2023-05-11T20:00:27Z",
             "owner": "ddd-by-examples",
             "repo": "library-nestjs",
-            "stars": 441
+            "stars": 442
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-15T00:38:01Z",
             "owner": "brocoders",
             "repo": "nestjs-boilerplate",
-            "stars": 4369
+            "stars": 4371
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "last_commit": "2026-08-05T13:13:45Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80032
+            "stars": 80041
           }
         },
         {
@@ -1102,24 +1102,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:37:28Z",
+            "last_commit": "2026-08-16T05:45:57Z",
             "owner": "twentyhq",
             "repo": "twenty",
-            "stars": 54954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Novu",
-          "description": "The open-source notification infrastructure with fully functional embedded notification center.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T17:46:02Z",
-            "owner": "novuhq",
-            "repo": "novu",
-            "stars": 39547
+            "stars": 54987
           }
         },
         {
@@ -1133,7 +1119,21 @@
             "last_commit": "2026-08-14T14:11:22Z",
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 39208
+            "stars": 39665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novu",
+          "description": "The open-source notification infrastructure with fully functional embedded notification center.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T00:11:22Z",
+            "owner": "novuhq",
+            "repo": "novu",
+            "stars": 39585
           }
         },
         {
@@ -1144,7 +1144,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:41:36Z",
+            "last_commit": "2026-08-15T15:45:36Z",
             "owner": "teableio",
             "repo": "teable",
             "stars": 21658
@@ -1186,10 +1186,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:54:10Z",
+            "last_commit": "2026-08-15T18:30:27Z",
             "owner": "ghostfolio",
             "repo": "ghostfolio",
-            "stars": 9128
+            "stars": 9132
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "last_commit": "2026-08-14T18:24:34Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8336
+            "stars": 8342
           }
         },
         {
@@ -1214,10 +1214,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:30:58Z",
+            "last_commit": "2026-08-15T17:23:09Z",
             "owner": "mnfst",
             "repo": "manifest",
-            "stars": 7444
+            "stars": 7446
           }
         },
         {
@@ -1228,10 +1228,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:51:32Z",
+            "last_commit": "2026-08-16T07:36:12Z",
             "owner": "ever-co",
             "repo": "ever-gauzy",
-            "stars": 4322
+            "stars": 4327
           }
         },
         {
@@ -1273,7 +1273,7 @@
             "last_commit": "2026-03-03T00:29:18Z",
             "owner": "eicrud",
             "repo": "eicrud",
-            "stars": 812
+            "stars": 811
           }
         },
         {
@@ -1396,7 +1396,7 @@
             "last_commit": "2026-08-14T05:14:43Z",
             "owner": "samchon",
             "repo": "typia",
-            "stars": 5865
+            "stars": 5866
           }
         },
         {
@@ -1438,7 +1438,7 @@
             "last_commit": "2026-08-12T18:32:48Z",
             "owner": "BenLorantfy",
             "repo": "nestjs-zod",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -1589,7 +1589,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:05:00Z",
+            "last_commit": "2026-08-15T12:05:26Z",
             "owner": "it-gorillaz",
             "repo": "configify",
             "stars": 206
@@ -1648,7 +1648,7 @@
             "last_commit": "2023-06-11T20:06:44Z",
             "owner": "rsinger86",
             "repo": "dto-classes",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -1799,7 +1799,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:27:59Z",
+            "last_commit": "2026-08-15T10:18:05Z",
             "owner": "rejifald",
             "repo": "StitchAPI",
             "stars": 17
@@ -1957,7 +1957,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T16:52:12Z",
+            "last_commit": "2026-08-16T04:58:59Z",
             "owner": "nestjs",
             "repo": "swagger",
             "stars": 1887
@@ -2013,7 +2013,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:25:10Z",
+            "last_commit": "2026-08-15T10:53:36Z",
             "owner": "Fcmam5",
             "repo": "nest-problem-details",
             "stars": 54
@@ -2171,10 +2171,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:43:43Z",
+            "last_commit": "2026-08-16T04:33:14Z",
             "owner": "darraghoriordan",
             "repo": "eslint-plugin-nestjs-typed",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -2185,7 +2185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:45:44Z",
+            "last_commit": "2026-08-16T01:36:45Z",
             "owner": "RoloBits",
             "repo": "nestjs-doctor",
             "stars": 152
@@ -2213,7 +2213,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:44:41Z",
+            "last_commit": "2026-08-16T07:31:53Z",
             "owner": "ofri-peretz",
             "repo": "eslint",
             "stars": 15
@@ -2379,10 +2379,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:44:41Z",
+            "last_commit": "2026-08-15T09:53:13Z",
             "owner": "apitally",
             "repo": "apitally-js",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -2619,7 +2619,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:44:25Z",
+            "last_commit": "2026-08-15T18:29:54Z",
             "owner": "HorizonRepublic",
             "repo": "nestjs-jetstream",
             "stars": 19
@@ -2922,7 +2922,7 @@
             "last_commit": "2026-08-14T18:15:41Z",
             "owner": "ppetzold",
             "repo": "nestjs-paginate",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -3244,7 +3244,7 @@
             "last_commit": "2025-12-02T03:41:30Z",
             "owner": "nksmnf",
             "repo": "nestjs-telegraf",
-            "stars": 630
+            "stars": 629
           }
         },
         {
@@ -3287,7 +3287,7 @@
             "last_commit": "2026-08-14T07:13:21Z",
             "owner": "necordjs",
             "repo": "necord",
-            "stars": 495
+            "stars": 496
           }
         }
       ],
@@ -3419,10 +3419,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:05:19Z",
+            "last_commit": "2026-08-16T01:09:14Z",
             "owner": "jmcdo29",
             "repo": "nest-commander",
-            "stars": 484
+            "stars": 485
           }
         },
         {
@@ -3468,7 +3468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:46:20.711Z",
+    "last_updated": "2026-08-16T07:47:15.604Z",
     "original_repository": "nestjs/awesome-nestjs",
     "original_repository_sha": "c0ad0a047e451e1a5ae83efa9e26e4dbedc85d5b",
     "enhanced_repository": "enhansome/enhansome-nestjs",
