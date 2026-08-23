@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T19:36:23Z",
+                "last_commit": "2026-08-22T18:21:11Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76422
+                "stars": 76433
               }
             },
             {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-04-10T03:26:50Z",
                     "owner": "nestjs",
                     "repo": "typescript-starter",
-                    "stars": 2134
+                    "stars": 2135
                   }
                 },
                 {
@@ -113,7 +113,7 @@
                 "last_commit": "2024-03-10T17:51:47Z",
                 "owner": "lujakob",
                 "repo": "nestjs-realworld-example-app",
-                "stars": 3355
+                "stars": 3354
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2024-01-10T14:41:13Z",
                 "owner": "International-Slackline-Association",
                 "repo": "Rankings-Backend",
-                "stars": 193
+                "stars": 192
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-09T19:39:42Z",
                 "owner": "Vivify-Ideas",
                 "repo": "nestjs-boilerplate",
-                "stars": 650
+                "stars": 649
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2026-08-21T20:03:14Z",
                 "owner": "aunggphyo",
                 "repo": "turborepo",
-                "stars": 113
+                "stars": 114
               }
             },
             {
@@ -1050,7 +1050,7 @@
                 "last_commit": "2026-07-26T15:53:56Z",
                 "owner": "BrahimAbdelli",
                 "repo": "nestier",
-                "stars": 76
+                "stars": 77
               }
             },
             {
@@ -1168,7 +1168,7 @@
                 "last_commit": "2026-08-22T05:37:14Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80075
+                "stars": 80079
               }
             },
             {
@@ -1180,10 +1180,10 @@
                 "archived": false,
                 "id": 572984571,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T07:48:15Z",
+                "last_commit": "2026-08-23T07:49:43Z",
                 "owner": "twentyhq",
                 "repo": "twenty",
-                "stars": 55301
+                "stars": 55363
               }
             },
             {
@@ -1198,7 +1198,7 @@
                 "last_commit": "2026-08-22T06:40:27Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40672
+                "stars": 40705
               }
             },
             {
@@ -1210,10 +1210,10 @@
                 "archived": false,
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:24:07Z",
+                "last_commit": "2026-08-23T07:38:56Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39633
+                "stars": 39636
               }
             },
             {
@@ -1225,10 +1225,10 @@
                 "archived": false,
                 "id": 560299175,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T07:44:13Z",
+                "last_commit": "2026-08-23T04:18:40Z",
                 "owner": "teableio",
                 "repo": "teable",
-                "stars": 21690
+                "stars": 21694
               }
             },
             {
@@ -1243,7 +1243,7 @@
                 "last_commit": "2026-06-30T13:46:55Z",
                 "owner": "amplication",
                 "repo": "amplication",
-                "stars": 16009
+                "stars": 16012
               }
             },
             {
@@ -1258,7 +1258,7 @@
                 "last_commit": "2025-10-30T03:34:31Z",
                 "owner": "apitable",
                 "repo": "apitable",
-                "stars": 15564
+                "stars": 15566
               }
             },
             {
@@ -1270,10 +1270,10 @@
                 "archived": false,
                 "id": 357671824,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T07:15:05Z",
+                "last_commit": "2026-08-22T17:35:09Z",
                 "owner": "ghostfolio",
                 "repo": "ghostfolio",
-                "stars": 9167
+                "stars": 9169
               }
             },
             {
@@ -1288,7 +1288,7 @@
                 "last_commit": "2026-08-21T22:00:49Z",
                 "owner": "vendurehq",
                 "repo": "vendure",
-                "stars": 8361
+                "stars": 8366
               }
             },
             {
@@ -1300,10 +1300,10 @@
                 "archived": false,
                 "id": 542185751,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T07:16:19Z",
+                "last_commit": "2026-08-23T01:12:53Z",
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7467
+                "stars": 7470
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "archived": false,
                 "id": 189829392,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:10:28Z",
+                "last_commit": "2026-08-23T07:32:19Z",
                 "owner": "ever-co",
                 "repo": "ever-gauzy",
                 "stars": 4343
@@ -1493,7 +1493,7 @@
                 "archived": false,
                 "id": 482949726,
                 "language": "Go",
-                "last_commit": "2026-08-21T15:27:52Z",
+                "last_commit": "2026-08-22T16:26:52Z",
                 "owner": "samchon",
                 "repo": "typia",
                 "stars": 5875
@@ -1508,7 +1508,7 @@
                 "archived": false,
                 "id": 331251676,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:19:44Z",
+                "last_commit": "2026-08-22T17:13:06Z",
                 "owner": "samchon",
                 "repo": "nestia",
                 "stars": 2172
@@ -1523,7 +1523,7 @@
                 "archived": false,
                 "id": 331251676,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:19:44Z",
+                "last_commit": "2026-08-22T17:13:06Z",
                 "owner": "samchon",
                 "repo": "nestia",
                 "stars": 2172
@@ -1541,7 +1541,7 @@
                 "last_commit": "2026-08-19T18:30:11Z",
                 "owner": "BenLorantfy",
                 "repo": "nestjs-zod",
-                "stars": 1113
+                "stars": 1114
               }
             },
             {
@@ -1706,7 +1706,7 @@
                 "last_commit": "2026-08-22T04:05:15Z",
                 "owner": "it-gorillaz",
                 "repo": "configify",
-                "stars": 206
+                "stars": 207
               }
             },
             {
@@ -2020,7 +2020,7 @@
                 "last_commit": "2026-07-22T23:05:20Z",
                 "owner": "nest-modules",
                 "repo": "ioredis",
-                "stars": 163
+                "stars": 164
               }
             },
             {
@@ -2084,7 +2084,7 @@
                 "archived": false,
                 "id": 331251676,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:19:44Z",
+                "last_commit": "2026-08-22T17:13:06Z",
                 "owner": "samchon",
                 "repo": "nestia",
                 "stars": 2172
@@ -2099,10 +2099,10 @@
                 "archived": false,
                 "id": 105440153,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T18:01:39Z",
+                "last_commit": "2026-08-23T01:03:02Z",
                 "owner": "nestjs",
                 "repo": "swagger",
-                "stars": 1887
+                "stars": 1886
               }
             },
             {
@@ -2330,7 +2330,7 @@
                 "archived": false,
                 "id": 374054071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T14:37:27Z",
+                "last_commit": "2026-08-23T05:06:20Z",
                 "owner": "darraghoriordan",
                 "repo": "eslint-plugin-nestjs-typed",
                 "stars": 225
@@ -2345,7 +2345,7 @@
                 "archived": false,
                 "id": 1160981919,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:42:05Z",
+                "last_commit": "2026-08-23T07:44:50Z",
                 "owner": "RoloBits",
                 "repo": "nestjs-doctor",
                 "stars": 153
@@ -2375,7 +2375,7 @@
                 "archived": false,
                 "id": 1083987889,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T05:31:27Z",
+                "last_commit": "2026-08-23T06:40:23Z",
                 "owner": "ofri-peretz",
                 "repo": "eslint",
                 "stars": 15
@@ -3136,7 +3136,7 @@
                 "last_commit": "2026-08-21T15:31:54Z",
                 "owner": "ppetzold",
                 "repo": "nestjs-paginate",
-                "stars": 588
+                "stars": 589
               }
             },
             {
@@ -3500,7 +3500,7 @@
                 "last_commit": "2025-12-02T03:41:30Z",
                 "owner": "nksmnf",
                 "repo": "nestjs-telegraf",
-                "stars": 629
+                "stars": 630
               }
             },
             {
@@ -3546,7 +3546,7 @@
                 "last_commit": "2026-08-21T10:18:30Z",
                 "owner": "necordjs",
                 "repo": "necord",
-                "stars": 497
+                "stars": 498
               }
             }
           ],
@@ -3660,7 +3660,7 @@
                 "archived": false,
                 "id": 91367908,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:43:33Z",
+                "last_commit": "2026-08-22T18:12:48Z",
                 "owner": "nestjs",
                 "repo": "nest-cli",
                 "stars": 2187
@@ -3690,7 +3690,7 @@
                 "archived": false,
                 "id": 328917508,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T01:05:12Z",
+                "last_commit": "2026-08-23T01:10:30Z",
                 "owner": "jmcdo29",
                 "repo": "nest-commander",
                 "stars": 485
@@ -3736,7 +3736,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:48:16.542Z",
+    "last_updated": "2026-08-23T07:49:43.804Z",
     "original_repository": "nestjs/awesome-nestjs",
     "original_repository_id": 104957153,
     "original_repository_sha": "8be47e5e0e8f9618f80d62081185b709103054d1",
