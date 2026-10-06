@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76793,
+                "stars": 76795,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -61,7 +61,7 @@
                     "open_issues": 2,
                     "owner": "nestjs",
                     "repo": "typescript-starter",
-                    "stars": 2150,
+                    "stars": 2151,
                     "topics": [
                       "javascript",
                       "nest",
@@ -345,7 +345,7 @@
                 "open_issues": 13,
                 "owner": "marcomelilli",
                 "repo": "nestjs-email-authentication",
-                "stars": 495,
+                "stars": 494,
                 "topics": [
                   "authentication",
                   "email-verification",
@@ -954,7 +954,7 @@
                 "open_issues": 51,
                 "owner": "brocoders",
                 "repo": "nestjs-boilerplate",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": [
                   "auth",
                   "boilerplate",
@@ -995,7 +995,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -1303,7 +1303,7 @@
                 "open_issues": 2,
                 "owner": "Tony133",
                 "repo": "fastify-api-boilerplate-jwt",
-                "stars": 595,
+                "stars": 594,
                 "topics": [
                   "api-rest",
                   "apirest",
@@ -2279,10 +2279,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T14:58:34Z",
-                "open_issues": 847,
+                "open_issues": 848,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80575,
+                "stars": 80581,
                 "topics": [
                   "api",
                   "api-client",
@@ -2318,11 +2318,11 @@
                 "id": 572984571,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T11:01:36Z",
-                "open_issues": 190,
+                "last_commit": "2026-10-06T14:13:18Z",
+                "open_issues": 199,
                 "owner": "twentyhq",
                 "repo": "twenty",
-                "stars": 57956,
+                "stars": 57965,
                 "topics": [
                   "crm",
                   "crm-system",
@@ -2357,11 +2357,11 @@
                 "id": 352933140,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T10:49:05Z",
-                "open_issues": 1310,
+                "last_commit": "2026-10-06T13:32:47Z",
+                "open_issues": 1206,
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 41040,
+                "stars": 41041,
                 "topics": [
                   "ai-app-builder",
                   "docker",
@@ -2397,11 +2397,11 @@
                 "id": 400215964,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:55:41Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-06T14:12:49Z",
+                "open_issues": 124,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 40119,
+                "stars": 40121,
                 "topics": [
                   "agents",
                   "communication",
@@ -2438,7 +2438,7 @@
                 "open_issues": 144,
                 "owner": "teableio",
                 "repo": "teable",
-                "stars": 21860,
+                "stars": 21861,
                 "topics": [
                   "ai-agent",
                   "airtable",
@@ -2509,7 +2509,7 @@
                 "open_issues": 306,
                 "owner": "apitable",
                 "repo": "apitable",
-                "stars": 15632,
+                "stars": 15633,
                 "topics": [
                   "admin-dashboard",
                   "airtable",
@@ -2550,7 +2550,7 @@
                 "open_issues": 326,
                 "owner": "ghostfolio",
                 "repo": "ghostfolio",
-                "stars": 9403,
+                "stars": 9406,
                 "topics": [
                   "angular",
                   "etf",
@@ -2588,10 +2588,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T08:11:15Z",
-                "open_issues": 194,
+                "open_issues": 196,
                 "owner": "vendurehq",
                 "repo": "vendure",
-                "stars": 8505,
+                "stars": 8506,
                 "topics": [
                   "ecommerce",
                   "ecommerce-api",
@@ -2626,7 +2626,7 @@
                 "open_issues": 462,
                 "owner": "ever-co",
                 "repo": "ever-gauzy",
-                "stars": 8201,
+                "stars": 8204,
                 "topics": [
                   "accounting",
                   "billing",
@@ -2668,7 +2668,7 @@
                 "open_issues": 47,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7556,
+                "stars": 7557,
                 "topics": [
                   "ai",
                   "ai-",
@@ -2705,7 +2705,7 @@
                 "open_issues": 56,
                 "owner": "undb-io",
                 "repo": "undb",
-                "stars": 2979,
+                "stars": 2980,
                 "topics": [
                   "airtable",
                   "airtable-alternative",
@@ -3107,7 +3107,7 @@
                 "open_issues": 2,
                 "owner": "samchon",
                 "repo": "typia",
-                "stars": 5933,
+                "stars": 5932,
                 "topics": [
                   "agentic-ai",
                   "ajv",
@@ -3227,7 +3227,7 @@
                 "open_issues": 35,
                 "owner": "BenLorantfy",
                 "repo": "nestjs-zod",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "javascript",
                   "nest",
@@ -3370,7 +3370,7 @@
                 "open_issues": 68,
                 "owner": "unlight",
                 "repo": "prisma-nestjs-graphql",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "graphql",
                   "nestjs",
@@ -4439,7 +4439,7 @@
                 "open_issues": 17,
                 "owner": "nestjs",
                 "repo": "swagger",
-                "stars": 1894,
+                "stars": 1895,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -5635,7 +5635,7 @@
                 "open_issues": 6,
                 "owner": "nestjs",
                 "repo": "event-emitter",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "event-emitter",
                   "events",
@@ -5828,7 +5828,7 @@
                 "open_issues": 3,
                 "owner": "sergey-telpuk",
                 "repo": "nestjs-rbac",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "javascript",
                   "nestjs",
@@ -5917,7 +5917,7 @@
                 "open_issues": 0,
                 "owner": "AlexanderC",
                 "repo": "nestjs-mtenant",
-                "stars": 151,
+                "stars": 150,
                 "topics": [
                   "multitenant",
                   "namespace",
@@ -6143,7 +6143,7 @@
                 "open_issues": 14,
                 "owner": "suites-dev",
                 "repo": "suites-unit",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "dependency-injection",
                   "inversifyjs",
@@ -6344,7 +6344,7 @@
                 "open_issues": 2,
                 "owner": "nestjs",
                 "repo": "typeorm",
-                "stars": 2158,
+                "stars": 2159,
                 "topics": [
                   "javascript",
                   "nest",
@@ -6633,7 +6633,7 @@
                 "open_issues": 4,
                 "owner": "golevelup",
                 "repo": "nestjs",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "event-management",
                   "express",
@@ -6668,7 +6668,7 @@
                 "open_issues": 4,
                 "owner": "golevelup",
                 "repo": "nestjs",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "event-management",
                   "express",
@@ -6855,7 +6855,7 @@
                 "open_issues": 4,
                 "owner": "golevelup",
                 "repo": "nestjs",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "event-management",
                   "express",
@@ -7133,7 +7133,7 @@
                 "open_issues": 4,
                 "owner": "golevelup",
                 "repo": "nestjs",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "event-management",
                   "express",
@@ -7242,8 +7242,8 @@
                 "id": 437954001,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T10:13:46Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-06T14:09:31Z",
+                "open_issues": 120,
                 "owner": "ForestAdmin",
                 "repo": "agent-nodejs",
                 "stars": 86,
@@ -7425,7 +7425,7 @@
                 "open_issues": 39,
                 "owner": "nksmnf",
                 "repo": "nestjs-telegraf",
-                "stars": 629,
+                "stars": 628,
                 "topics": [
                   "bot",
                   "bot-api",
@@ -7459,7 +7459,7 @@
                     "id": 677513780,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T13:56:13Z",
+                    "last_commit": "2026-10-06T13:59:37Z",
                     "open_issues": 0,
                     "owner": "necordjs",
                     "repo": "pagination",
@@ -7486,7 +7486,7 @@
                     "id": 782367901,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T14:07:59Z",
+                    "last_commit": "2026-10-06T14:09:38Z",
                     "open_issues": 0,
                     "owner": "necordjs",
                     "repo": "localization",
@@ -7803,7 +7803,7 @@
                 "open_issues": 15,
                 "owner": "nestjs",
                 "repo": "nest-cli",
-                "stars": 2203,
+                "stars": 2204,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -7931,7 +7931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:07.007Z",
+    "last_updated": "2026-10-06T14:14:35.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to NestJS 😎",
