@@ -36,7 +36,7 @@
 
 #### Official Resources
 
-* [GitHub Repo](https://github.com/nestjs/nest) ⭐ 77,229 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-23
+* [GitHub Repo](https://github.com/nestjs/nest) ⭐ 77,142 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-24
 * [Website](https://nestjs.com)
 * [Official Guide](https://docs.nestjs.com)
 * [YouTube channel](https://www.youtube.com/@nestframework)
@@ -82,7 +82,7 @@
 
 #### Tutorials
 
-* [Prod Forge](https://github.com/prod-forge/backend) ⭐ 486 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-18 - Production-oriented NestJS service showcasing CI/CD, migrations, observability, and infrastructure, with documented decisions and a step-by-step guide; companion [React and Expo client](https://github.com/prod-forge/frontend) ⭐ 274 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-22 and [Terraform stack](https://github.com/prod-forge/terraform) ⭐ 15 | 🐛 4 | 🌐 HCL | 📅 2026-11-22.
+* [Prod Forge](https://github.com/prod-forge/backend) ⭐ 487 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-18 - Production-oriented NestJS service showcasing CI/CD, migrations, observability, and infrastructure, with documented decisions and a step-by-step guide; companion [React and Expo client](https://github.com/prod-forge/frontend) ⭐ 273 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-22 and [Terraform stack](https://github.com/prod-forge/terraform) ⭐ 15 | 🐛 4 | 🌐 HCL | 📅 2026-11-22.
 * [NestJS30Days](https://github.com/m24927605/Nestjs30Days) ⭐ 400 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-29 - Learn the NestJS framework in 30 days.
 * NestJS content on Dev.to: [articles made by the core team](https://dev.to/nestjs); [articles made by the community](https://dev.to/t/nestjs).
 * [Blog of Trilon](https://trilon.io/blog) (NestJS creator's company).
@@ -108,12 +108,12 @@
 
 * [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) ⭐ 3,363 | 🐛 47 | 🌐 TypeScript | 📅 2024-03-10 - Exemplary real world backend API built with NestJS + TypeORM.
 * [Nodepress](https://github.com/surmon-china/nodepress) ⭐ 1,521 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-19 - A RESTful API server application for Blog CMS.
-* [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) ⭐ 1,506 | 🐛 2 | 🌐 TypeScript | 📅 2023-09-17 - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
+* [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) ⭐ 1,507 | 🐛 2 | 🌐 TypeScript | 📅 2023-09-17 - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 * [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) ⭐ 1,360 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-30 - Example of constructing a project structure with NestJS.
 * [Nest Ideas API](https://github.com/kelvin-mai/nest-ideas-api) ⭐ 541 | 🐛 28 | 🌐 TypeScript | 📅 2023-01-12 - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
-* [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) ⭐ 493 | 🐛 13 | 🌐 TypeScript | 📅 2023-02-12 - Starter project that includes API for user email authentication with MongoDB and PassportJs.
+* [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) ⭐ 492 | 🐛 13 | 🌐 TypeScript | 📅 2023-02-12 - Starter project that includes API for user email authentication with MongoDB and PassportJs.
 * [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) ⭐ 441 | 🐛 2 | 🌐 TypeScript | 📅 2023-05-11 - Example of an application that follows Domain Driven Design.
-* [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) ⭐ 291 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - NestJS Authentication without Passport using Bcrypt, JWT and Redis
+* [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) ⭐ 291 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - NestJS Authentication without Passport using Bcrypt, JWT and Redis
 * [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) ⭐ 218 | 🐛 28 | 🌐 TypeScript | 📅 2023-01-23 - An example NestJS application that uses Auth0 via Passport for authentication.
 * [Lyricstify](https://github.com/lyricstify/lyricstify) ⭐ 202 | 🐛 15 | 🌐 TypeScript | 📅 2024-07-02 - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
 * [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) ⚠️ Archived - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams.
@@ -129,12 +129,13 @@
 * [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) ⭐ 44 | 🐛 1 | 🌐 TypeScript | 📅 2017-12-04 - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
 * [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) ⭐ 39 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-17 - A restful API with NestJS and mongoose.
 * [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-29 - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
+* [OpenReceive NestJS Starter](https://github.com/OpenReceive/openreceive/tree/master/examples/nestjs-starter) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - One-product shop that takes Bitcoin Lightning payments into your own wallet, with orders and payment attempts in PostgreSQL through TypeORM.
 * [Mant](https://github.com/vladotesanovic/mant) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2017-11-26 - New Stack on the Market to beat them all :ring: MANT.
 * [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) ⭐ 15 | 🐛 1 | 🌐 TypeScript | 📅 2024-06-05 - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
 
 #### Boilerplate
 
-* [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) ⭐ 4,428 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-21 - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
+* [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) ⭐ 4,429 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-23 - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
 * [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) ⭐ 2,908 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 - Enterprise multi-tenant SaaS starter kit with CQRS GraphQL microservice architecture, apollo federation, event source and authentication.
 * [Awesome Nest Boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) ⭐ 2,828 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-15 - Typescript, Postgresql, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
 * [NestJS Prisma Starter](https://github.com/notiz-dev/nestjs-prisma-starter) ⭐ 2,541 | 🐛 15 | 🌐 TypeScript | 📅 2024-07-08 - Starter project for NestJS includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
@@ -145,8 +146,8 @@
 * [NestJS Boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate) ⭐ 646 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-10 - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things.
 * [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) ⭐ 640 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-01 - Features: JWT Auth, RBAC Authorization, TypeORM, winston logger, Pagination, Auto-generated Swagger. Other: prettier, commit-linting husky hooks, SonarCloud, docker-compose.
 * [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) ⭐ 604 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-01 - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
-* [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) ⭐ 596 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and JWT Auth.
-* [NestJS Template](https://github.com/Saluki/nestjs-template) ⭐ 580 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-16 - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
+* [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) ⭐ 596 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and JWT Auth.
+* [NestJS Template](https://github.com/Saluki/nestjs-template) ⭐ 581 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-16 - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
 * [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) ⭐ 453 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-08 - Hackathon starter project for NestJS. Includes Prisma, email verification, Passport-JWT authentication, Swagger and more.
 * [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) ⭐ 452 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-18 - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
 * [NextJS & NestJS GraphQL Starter](https://github.com/tomanagle/NextJS-NestJS-GraphQL-Starter) ⭐ 444 | 🐛 18 | 🌐 TypeScript | 📅 2023-03-05 - GraphQL NestJS with NextJS boilerplace. Includes GitHub, Reddit & Google OAuth.
@@ -155,7 +156,7 @@
 * [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) ⭐ 374 | 🐛 47 | 🌐 TypeScript | 📅 2023-01-07 - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) ⭐ 354 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-21 - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
 * [Stator](https://github.com/chocolat-chaud-io/stator) ⭐ 299 | 🐛 15 | 🌐 TypeScript | 📅 2022-11-29 - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
-* [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) ⭐ 294 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-23 - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
+* [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) ⭐ 294 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-23 - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
 * [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) ⭐ 246 | 🐛 1 | 🌐 TypeScript | 📅 2021-11-30 - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
 * [Zen NestJS Prisma Apollo Angular Starter](https://github.com/ZenSoftware/zen) ⭐ 218 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - An Nx monorepo for creating user portals as a progressive web application. Zen integrates the most widely adopted dependencies within the NestJS, Prisma, Apollo & Angular eco-systems. Code generating the entire data access layer for you.
 * [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) ⭐ 176 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-24 - Dockerized API boilerplate with NestJS, TypeORM, TypeGraphQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
@@ -164,10 +165,10 @@
 * [NestJS Starter](https://github.com/rudemex/nestjs-starter) ⭐ 147 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-03 - Starter for BFF, MS and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
 * [NestJS Webpack Boilerplate](https://github.com/kenso312/nestjs-v9-webpack-boilerplate) ⭐ 128 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-15 - Boilerplate for NestJS with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docker, Alias Path, Error Handling and Clustering.
 * [NestJS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) ⭐ 115 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-02 - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
-* [NestJS Boilerplate with Turborepo](https://github.com/theaungphyo/turborepo) ⭐ 113 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21 - A robust boilerplate integrating NestJS for the backend and Next.js for the frontend, optimized with Turborepo for a monorepo architecture. It leverages SWC for lightning-fast compilation, PNPM for efficient package management, and implements JWT-based authentication with refresh token support. The backend uses TypeORM with PostgreSQL, and includes a mail service powered by Nodemailer. The frontend is pre-configured with Shadcn UI, supports a micro-frontend architecture, and includes built-in linting and formatting tools—making it ideal for building scalable and modern full-stack applications.
+* [NestJS Boilerplate with Turborepo](https://github.com/theaungphyo/turborepo) ⭐ 113 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-24 - A robust boilerplate integrating NestJS for the backend and Next.js for the frontend, optimized with Turborepo for a monorepo architecture. It leverages SWC for lightning-fast compilation, PNPM for efficient package management, and implements JWT-based authentication with refresh token support. The backend uses TypeORM with PostgreSQL, and includes a mail service powered by Nodemailer. The frontend is pre-configured with Shadcn UI, supports a micro-frontend architecture, and includes built-in linting and formatting tools—making it ideal for building scalable and modern full-stack applications.
 * [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) ⭐ 95 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21 - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis and more, fast and simple boilerplate.
 * [NestJS Boilerplate](https://github.com/oNo500/nestjs-boilerplate) ⭐ 93 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-01 - Enterprise-grade full-stack SaaS starter with NestJS, Drizzle ORM, Turborepo monorepo, React 19 admin panels (Ant Design Pro & shadcn/ui), authentication, authorization, audit logging, and DDD architecture.
-* [NestForge](https://github.com/hhsadiq/NestForge) ⭐ 89 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-21 - More than a boilerplate — it's a complete AI-powered development platform that takes you from database schema to production-ready API in minutes. Unlike traditional boilerplates, NestForge uses AI-assistance generators to create production-ready CRUD modules and guides you in extending them with business logic while keeping your code fully aligned with architectural standards. Features zero-config setup, hexagonal architecture, enterprise features (JWT, Biometric login, Social Auth, File Management, Mailing System, i18n, GitHub Actions), Hygen code generation, AI that codes with you, and full testing suite (Unit, E2E, Load tests).
+* [NestForge](https://github.com/hhsadiq/NestForge) ⭐ 89 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-23 - More than a boilerplate — it's a complete AI-powered development platform that takes you from database schema to production-ready API in minutes. Unlike traditional boilerplates, NestForge uses AI-assistance generators to create production-ready CRUD modules and guides you in extending them with business logic while keeping your code fully aligned with architectural standards. Features zero-config setup, hexagonal architecture, enterprise features (JWT, Biometric login, Social Auth, File Management, Mailing System, i18n, GitHub Actions), Hygen code generation, AI that codes with you, and full testing suite (Unit, E2E, Load tests).
 * [TeanJS](https://github.com/adrien2p/teanjs) ⭐ 86 | 🐛 20 | 🌐 TypeScript | 📅 2025-09-02 - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible.
 * [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2021-01-26 - Starter Kit using NestJS MongoDB Graphql and [`type-graphql`](https://typegraphql.com) inspired the type schema first approach.
 * [Nestier](https://github.com/BrahimAbdelli/nestier) ⭐ 79 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - A production-ready NestJS boilerplate with Hexagonal Architecture, Domain-Driven Design, Generic Repository Pattern, CRUD operations, TypeORM, MongoDB, JWT Authentication, Swagger, Winston Logger, Mailjet, AutoMapper, Advanced Search, Pagination, Soft Delete, Docker, Jest, ESLint, Prettier and SonarQube.
@@ -175,33 +176,34 @@
 * [NestJS Drizzle Auth.js](https://github.com/innei-template/nest-drizzle-authjs) ⭐ 60 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-23 - A Nest.js Boilerplate Using Drizzle + Postgres and integrates Auth.js.
 * [Clean NestJs architecture](https://github.com/MoeidHeidari/sudoku-challenge) ⭐ 49 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - This boilerplate show how to setup a clean architecture with NestJs including unit, integration and e2e tests.
 * [Stytch NestJS Starter](https://github.com/u11d-com/stytch-nestjs-starter) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-29 - A production-ready NestJS backend starter with Stytch authentication integration. Features complete email/password auth with session management, Redis session caching, smart session refresh, TypeORM with PostgreSQL, Docker setup, and TypeScript throughout.
+* [NestJS Auth Starter](https://github.com/masabinhok/nestjs-auth-starter) ⭐ 10 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-24 - Production auth on the official `@nestjs/authentication` and `@nestjs/authorization` packages: Prisma stores verified by the packages' contract suite, sessions, refresh token rotation, TOTP 2FA, passkeys, magic links, Google and GitHub sign-in, API keys, audit trail, Docker and e2e tests.
 
 ## Projects using NestJS
 
 #### Open Source
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,916 | 🐛 919 | 🌐 TypeScript | 📅 2026-11-23 - Open source API development ecosystem with NestJS backend - alternative to Postman.
-* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,373 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-23 - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
-* [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet) ⭐ 41,289 | 🐛 978 | 🌐 HTML | 📅 2026-11-23) `GPL-3.0`
-* [Novu](https://github.com/novuhq/novu) ⭐ 40,416 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-23 - The open-source notification infrastructure with fully functional embedded notification center.
-* [Teable](https://github.com/teableio/teable) ⭐ 22,011 | 🐛 151 | 🌐 TypeScript | 📅 2026-11-23 - A Super fast, Real-time, Professional, Developer-friendly, No code database.
-* [Amplication](https://github.com/amplication/amplication) ⭐ 16,005 | 🐛 667 | 🌐 TypeScript | 📅 2026-06-30 - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
-* [apitable](https://github.com/apitable/apitable) ⭐ 15,672 | 🐛 308 | 🌐 TypeScript | 📅 2026-09-06 - APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-* [Ghostfolio](https://github.com/ghostfolio/ghostfolio) ⭐ 9,767 | 🐛 363 | 🌐 TypeScript | 📅 2026-11-23 - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
-* [Gauzy](https://github.com/ever-co/gauzy) ⭐ 8,886 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-23 - Open-Source Profits Sharing Platform for modern agencies and studios.
-* [Vendure](https://github.com/vendure-ecommerce/vendure) ⭐ 8,611 | 🐛 220 | 🌐 TypeScript | 📅 2026-11-23 - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
-* [Manifest](https://manifest.build) - Open-source real-time cost observability for AI agents. Built with NestJS 11, TypeORM, SQLite. Tracks tokens, costs, messages, model usage. Self-hostable, privacy-focused, OTLP-native. ([Source Code](https://github.com/mnfst/manifest) ⭐ 7,652 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-23) `MIT`
-* [Ever®](https://github.com/ever-co/ever) ⭐ 1,873 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-23 - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,953 | 🐛 924 | 🌐 TypeScript | 📅 2026-11-24 - Open source API development ecosystem with NestJS backend - alternative to Postman.
+* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,423 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-24 - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
+* [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet) ⭐ 41,294 | 🐛 965 | 🌐 HTML | 📅 2026-11-24) `GPL-3.0`
+* [Novu](https://github.com/novuhq/novu) ⭐ 40,423 | 🐛 104 | 🌐 TypeScript | 📅 2026-11-24 - The open-source notification infrastructure with fully functional embedded notification center.
+* [Teable](https://github.com/teableio/teable) ⭐ 22,014 | 🐛 151 | 🌐 TypeScript | 📅 2026-11-24 - A Super fast, Real-time, Professional, Developer-friendly, No code database.
+* [Amplication](https://github.com/amplication/amplication) ⭐ 16,004 | 🐛 667 | 🌐 TypeScript | 📅 2026-06-30 - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
+* [apitable](https://github.com/apitable/apitable) ⭐ 15,674 | 🐛 308 | 🌐 TypeScript | 📅 2026-09-06 - APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+* [Ghostfolio](https://github.com/ghostfolio/ghostfolio) ⭐ 9,774 | 🐛 362 | 🌐 TypeScript | 📅 2026-11-24 - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
+* [Gauzy](https://github.com/ever-co/gauzy) ⭐ 8,896 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-24 - Open-Source Profits Sharing Platform for modern agencies and studios.
+* [Vendure](https://github.com/vendure-ecommerce/vendure) ⭐ 8,615 | 🐛 216 | 🌐 TypeScript | 📅 2026-11-24 - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
+* [Manifest](https://manifest.build) - Open-source real-time cost observability for AI agents. Built with NestJS 11, TypeORM, SQLite. Tracks tokens, costs, messages, model usage. Self-hostable, privacy-focused, OTLP-native. ([Source Code](https://github.com/mnfst/manifest) ⭐ 7,653 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-24) `MIT`
+* [Ever®](https://github.com/ever-co/ever) ⭐ 1,873 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-24 - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
 * [Eicrud](https://github.com/eicrud/eicrud) ⭐ 807 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-03 - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
 * [Enclave](https://github.com/yuanzui0728/enclave) ⭐ 197 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-26 - Open-source, self-hosted, single-owner AI social world. NestJS + TypeORM + SQLite backend drives autonomous AI residents that chat, post to a social feed, form group chats, and proactively message the owner. Works with any OpenAI-compatible endpoint (DeepSeek default). `docker compose up -d` to self-host. `MIT`
 * [iola](https://github.com/pvarentsov/iola) ⭐ 172 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-12 - Socket client with Rest API.
-* [AsoBeast](https://github.com/AsoBeast/asobeast) ⭐ 157 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-23 - Open-source App Store Optimization tool for the App Store and Google Play with daily keyword rank tracking, competitor and review monitoring, a REST API and an MCP server, self-hosted with Docker.
+* [AsoBeast](https://github.com/AsoBeast/asobeast) ⭐ 159 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-24 - Open-source App Store Optimization tool for the App Store and Google Play with daily keyword rank tracking, competitor and review monitoring, a REST API and an MCP server, self-hosted with Docker.
 * [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) ⭐ 105 | 🐛 37 | 🌐 TypeScript | 📅 2023-01-24 - Open-Source platform for statistics and pull request management.
 * [IdeaForge](https://github.com/chenxiaoyao6228/idea-forge) ⭐ 67 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 - A powerful document collaboration platform that combines Notion-like functionality with AI capabilities. It offers a seamless environment for real-time collaborative editing, AI-powered writing assistance, and intuitive document management.
 * [Syncle](https://syncle.dev) - Keeps PostgreSQL, MySQL, SQLite, MongoDB and Redis in sync with each other, by one-off backfill, cursor polling, or real-time change data capture. ([Source Code](https://github.com/osmanahmadxai/SYNCLE) ⭐ 53 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23) `MIT`
 * [Bunnychess](https://github.com/pietrobassi/bunnychess) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-26 - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
-* [Awesomer](https://github.com/patrickclery/awesomer) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23 - Tracks 7, 30 and 90-day star growth for repositories in curated awesome lists, with a NestJS 11 and Prisma 7 sync pipeline feeding a static Next.js site. `MIT`
-* [Necord/Toolkit](https://github.com/necordjs/toolkit) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23 - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
+* [Awesomer](https://github.com/patrickclery/awesomer) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - Tracks 7, 30 and 90-day star growth for repositories in curated awesome lists, with a NestJS 11 and Prisma 7 sync pipeline feeding a static Next.js site. `MIT`
+* [Necord/Toolkit](https://github.com/necordjs/toolkit) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 * [gitcard-studio](https://github.com/creativecodeco/gitcard-studio) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - Open-source, production-grade SVG stats generator microservice built with NestJS, Astro, Clean Architecture (DDD), PostgreSQL/TypeORM, and Vitest.
 * [Snagbox](https://github.com/fabwaseem/snagbox) ⭐ 15 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-21 - Self-hostable media downloader REST API for major social platforms, with API key auth, rate limiting and PostgreSQL. `MIT`
 
@@ -209,20 +211,20 @@
 
 #### Utilities
 
-* ![](https://img.shields.io/github/stars/samchon/typia.svg?style=flat-square) [`typia`](https://github.com/samchon/typia) ⭐ 5,970 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19: 20,000x times faster runtime validator using pure TypeScript type.
-* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia) ⭐ 2,181 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-14: 20,000x times faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, supports advanced `websocket` controlle methods through `tgrid`.
-* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/migrate`](https://github.com/samchon/nestia) ⭐ 2,181 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-14: Migration program generating NestJS project from `swagger.json` file. Also possible to generate SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) from `swagger.json` file through `@nestia/sdk`
-* ![](https://img.shields.io/github/stars/BenLorantfy/nestjs-zod.svg?style=flat-square) [`nestjs-zod`](https://github.com/BenLorantfy/nestjs-zod) ⭐ 1,129 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-18 - A NestJS module that integrates Zod for schema validation and transformation.
-* [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) ⭐ 947 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23 - A lightweight CQRS module for Nest framework.
+* ![](https://img.shields.io/github/stars/samchon/typia.svg?style=flat-square) [`typia`](https://github.com/samchon/typia) ⭐ 5,970 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-19: 20,000x times faster runtime validator using pure TypeScript type.
+* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia) ⭐ 2,182 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14: 20,000x times faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, supports advanced `websocket` controlle methods through `tgrid`.
+* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/migrate`](https://github.com/samchon/nestia) ⭐ 2,182 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14: Migration program generating NestJS project from `swagger.json` file. Also possible to generate SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) from `swagger.json` file through `@nestia/sdk`
+* ![](https://img.shields.io/github/stars/BenLorantfy/nestjs-zod.svg?style=flat-square) [`nestjs-zod`](https://github.com/BenLorantfy/nestjs-zod) ⭐ 1,129 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-18 - A NestJS module that integrates Zod for schema validation and transformation.
+* [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) ⭐ 948 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-24 - A lightweight CQRS module for Nest framework.
 * [`@nestjs/throttler`](https://github.com/nestjs/throttler) ⭐ 714 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-23 - A rate limiting module for NestJS with multiple storage strategies.
 * ![](https://img.shields.io/github/stars/Papooch/nestjs-cls.svg?style=flat-square) [`nestjs-cls`](https://github.com/Papooch/nestjs-cls) ⭐ 712 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-19 - A continuation-local storage module for Nest (using `async_hooks`)
 * ![](https://img.shields.io/github/stars/nestjsx/nestjs-config.svg?style=flat-square) [`nestjs-config`](https://github.com/nestjsx/nestjs-config) ⭐ 705 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-16 - A Great module to handle project configurations.
-* ![](https://img.shields.io/github/stars/unlight/prisma-nestjs-graphql?style=flat-square) [`prisma-nestjs-graphql`](https://github.com/unlight/prisma-nestjs-graphql) ⭐ 573 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-21 - Generate object types, inputs, args, etc. from prisma schema file for usage with `@nestjs/graphql` module.
+* ![](https://img.shields.io/github/stars/unlight/prisma-nestjs-graphql?style=flat-square) [`prisma-nestjs-graphql`](https://github.com/unlight/prisma-nestjs-graphql) ⭐ 572 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-21 - Generate object types, inputs, args, etc. from prisma schema file for usage with `@nestjs/graphql` module.
 * ![](https://img.shields.io/github/stars/miaowing/nest-schedule.svg?style=flat-square) [`nest-schedule`](https://github.com/miaowing/nest-schedule) ⭐ 435 | 🐛 37 | 🌐 TypeScript | 📅 2023-01-07 - Schedule job easier by decorator.
 * ![](https://img.shields.io/github/stars/nest-cloud/nestcloud.svg?style=flat-square) [`@nestcloud/cli`](https://github.com/nest-cloud/nestcloud) ⭐ 419 | 🐛 22 | 🌐 TypeScript | 📅 2024-02-19 - A Node.js micro-service solution based on Consul, writing by Typescript language and NestJS framework.
 * ![](https://img.shields.io/github/stars/jmcdo29/nestjs-spelunker?style=flat-square) [`@jmcdo29/nestjs-spelunker`](https://github.com/jmcdo29/nestjs-spelunker) ⭐ 416 | 🐛 9 | 🌐 TypeScript | 📅 2025-01-26 - A NestJS module that does a bit of a dive through the provided module and reads through the dependency tree from the point of entry given.
 * ![](https://img.shields.io/github/stars/lupu60/nestjs-toolbox.svg?style=flat-square) [NestJS Toolbox](https://github.com/lupu60/nestjs-toolbox) ⭐ 406 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - The repository contains a suite of components and modules for NestJS.
-* ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) ⭐ 227 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-20 - Intuitive, type-safe configuration module for Nest framework.
+* ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) ⭐ 227 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-23 - Intuitive, type-safe configuration module for Nest framework.
 * ![](https://img.shields.io/github/stars/it-gorillaz/configfy.svg?style=flat-square) [`configfy`](https://github.com/it-gorillaz/configfy) ⭐ 210 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-31 - A decorator based configuration module that makes it easier to deal with configuration files and secrets.
 * ![](https://img.shields.io/github/stars/jeffminsungkim/nestjs-multer-extended.svg?style=flat-square) [`nestjs-multer-extended`](https://github.com/jeffminsungkim/nestjs-multer-extended) ⭐ 203 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-21 - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 * ![](https://img.shields.io/github/stars/rubiin/nestjs-easyconfig.svg?style=flat-square) [`nestjs-easyconfig`](https://github.com/rubiin/nestjs-easyconfig) ⭐ 187 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - A NestJS module for managing configs that provides some sleek features.
@@ -247,7 +249,7 @@
 
 #### Code Style
 
-* ![](https://img.shields.io/github/stars/basarat/typescript-book.svg?style=flat-square) [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) ⭐ 21,578 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - An unofficial TypeScript StyleGuide.
+* ![](https://img.shields.io/github/stars/basarat/typescript-book.svg?style=flat-square) [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) ⭐ 21,574 | 🐛 149 | 🌐 TypeScript | 📅 2024-06-29 - An unofficial TypeScript StyleGuide.
 
 #### Web Sockets
 
@@ -256,7 +258,7 @@
 
 #### Cache
 
-* [`@nestjs/cache-manager`](https://github.com/nestjs/cache-manager) ⭐ 169 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Official caching module for NestJS with support for multiple stores (Redis, Memcached, etc.).
+* [`@nestjs/cache-manager`](https://github.com/nestjs/cache-manager) ⭐ 169 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - Official caching module for NestJS with support for multiple stores (Redis, Memcached, etc.).
 * ![](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) ⭐ 107 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-09 - A simple, flexible and powerful cache decorator factory for NestJS framework.
 
 #### Redis
@@ -264,18 +266,18 @@
 * ![](https://img.shields.io/github/stars/liaoliaots/nestjs-redis.svg?style=flat-square) [`@liaoliaots/nestjs-redis`](https://github.com/liaoliaots/nestjs-redis) ⭐ 438 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-25 - Redis(ioredis) module for NestJS framework.
 * ![](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`@nestjs-modules/ioredis`](https://github.com/nest-modules/ioredis) ⭐ 164 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-08 - A ioredis module for Nest framework.
 * ![](https://img.shields.io/github/stars/csenshi/nestjs-redis.svg?style=flat-square) [`@csenshi/nestjs-redis`](https://github.com/CSenshi/nestjs-redis) ⭐ 82 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-05 - NestJS Redis toolkit for node-redis — Client, Redlock, health checks and more.
-* ![](https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx.svg?style=flat-square) [`@nestjs-redisx/*`](https://github.com/nestjs-redisx/nestjs-redisx) ⭐ 78 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-10 - Modular Redis toolkit with plugin architecture: L1+L2 caching (SWR, anti-stampede, tags), distributed locks, rate limiting, idempotency, streams, Prometheus metrics, and OpenTelemetry tracing.
+* ![](https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx.svg?style=flat-square) [`@nestjs-redisx/*`](https://github.com/nestjs-redisx/nestjs-redisx) ⭐ 79 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-10 - Modular Redis toolkit with plugin architecture: L1+L2 caching (SWR, anti-stampede, tags), distributed locks, rate limiting, idempotency, streams, Prometheus metrics, and OpenTelemetry tracing.
 * ![](https://img.shields.io/github/stars/alexpota/nestjs-redlock-universal.svg?style=flat-square) [`nestjs-redlock-universal`](https://github.com/alexpota/nestjs-redlock-universal) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 - Distributed Redis and Valkey lock module with decorators, supporting node-redis, ioredis, and Valkey GLIDE clients.
 
 #### Mail
 
-* ![](https://img.shields.io/github/stars/partyka95/nest-mailer.svg?style=flat-square) [`@nestjs-modules/mailer`](https://github.com/partyka95/nest-mailer) ⭐ 914 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - A mailer module for Nest framework.
+* ![](https://img.shields.io/github/stars/partyka95/nest-mailer.svg?style=flat-square) [`@nestjs-modules/mailer`](https://github.com/partyka95/nest-mailer) ⭐ 915 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - A mailer module for Nest framework.
 
 #### API
 
-* ![](https://img.shields.io/github/stars/middleapi/orpc.svg?style=flat-square) [`@orpc/nest`](https://github.com/middleapi/orpc/tree/main/packages/nest) ⭐ 5,783 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-23 - Implement typesafe oRPC contracts in controllers, with end-to-end typed clients and OpenAPI generation.
-* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/sdk`](https://github.com/samchon/nestia) ⭐ 2,181 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-14 - Automatic SDK (Software Development Kit, collection of `fetch` functions with type definitions like `tRPC`), Mockup Simulator (backend server simulator embedded in SDK like `msw`) and Swagger generators, evolved than ever. Also, it can automatically generate e2e test functions for every API routes by analyzing your NestJS server codes.
-* [`@nestjs/swagger`](https://github.com/nestjs/swagger) ⭐ 1,906 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-23 - This's an OpenAPI (Swagger) module for Nest. *\[[Tutorial](https://docs.nestjs.com/recipes/swagger)]*.
+* ![](https://img.shields.io/github/stars/middleapi/orpc.svg?style=flat-square) [`@orpc/nest`](https://github.com/middleapi/orpc/tree/main/packages/nest) ⭐ 5,786 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-24 - Implement typesafe oRPC contracts in controllers, with end-to-end typed clients and OpenAPI generation.
+* ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/sdk`](https://github.com/samchon/nestia) ⭐ 2,182 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14 - Automatic SDK (Software Development Kit, collection of `fetch` functions with type definitions like `tRPC`), Mockup Simulator (backend server simulator embedded in SDK like `msw`) and Swagger generators, evolved than ever. Also, it can automatically generate e2e test functions for every API routes by analyzing your NestJS server codes.
+* [`@nestjs/swagger`](https://github.com/nestjs/swagger) ⭐ 1,906 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-24 - This's an OpenAPI (Swagger) module for Nest. *\[[Tutorial](https://docs.nestjs.com/recipes/swagger)]*.
 * ![](https://img.shields.io/github/stars/flamewow/nestjs-asyncapi.svg?style=flat-square) [`nestjs-asyncapi`](https://github.com/flamewow/nestjs-asyncapi) ⭐ 235 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-16 - AsyncAPI module for NestJS.
 * ![](https://img.shields.io/github/stars/woowabros/nestjs-library-crud.svg?style=flat-square) [`@nestjs-library/crud`](https://github.com/woowabros/nestjs-library-crud) ⭐ 227 | 🐛 16 | 🌐 TypeScript | 📅 2025-12-02 - Automatically generates CRUD routes of a controller for given TypeORM entity.
 * ![](https://img.shields.io/github/stars/tripss/nestjs-query.svg?style=flat-square) [`@ptc-org/nestjs-query-*`](https://github.com/tripss/nestjs-query) ⭐ 198 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-20 - Nest CRUD for GraphQL APIs.
@@ -300,9 +302,9 @@
 #### Lint
 
 * ![](https://img.shields.io/github/stars/darraghoriordan/eslint-plugin-nestjs-typed.svg?style=flat-square) [`@darraghor/eslint-plugin-nestjs-typed`](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) ⭐ 226 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - ESLint rules for NestJS framework.
-* ![](https://img.shields.io/github/stars/RoloBits/nestjs-doctor.svg?style=flat-square) [`nestjs-doctor`](https://github.com/RoloBits/nestjs-doctor) ⭐ 186 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-09 - Static analysis and diagnostics tool with health scores, module graph, endpoint dependency visualization, and schema analysis.
+* ![](https://img.shields.io/github/stars/RoloBits/nestjs-doctor.svg?style=flat-square) [`nestjs-doctor`](https://github.com/RoloBits/nestjs-doctor) ⭐ 186 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-23 - Static analysis and diagnostics tool with health scores, module graph, endpoint dependency visualization, and schema analysis.
 * ![](https://img.shields.io/github/stars/unlight/eslint-plugin-nestjs.svg?style=flat-square) [`eslint-plugin-nestjs`](https://github.com/unlight/eslint-plugin-nestjs) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2021-12-09 - ESLint rules for NestJS framework.
-* ![](https://img.shields.io/github/stars/ofri-peretz/eslint.svg?style=flat-square) [`eslint-plugin-nestjs-security`](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-nestjs-security) ⭐ 20 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-23 - Security rules for guards, validation pipes, throttling, CORS, Swagger exposure and file uploads; the same rules load in oxlint through `jsPlugins` as `oxlint-plugin-nestjs-security`.
+* ![](https://img.shields.io/github/stars/ofri-peretz/eslint.svg?style=flat-square) [`eslint-plugin-nestjs-security`](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-nestjs-security) ⭐ 20 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-24 - Security rules for guards, validation pipes, throttling, CORS, Swagger exposure and file uploads; the same rules load in oxlint through `jsPlugins` as `oxlint-plugin-nestjs-security`.
 
 #### Router🚦
 
@@ -311,9 +313,9 @@
 
 #### HTTP Adapters
 
-* ![](https://img.shields.io/github/stars/kiyasov/platform-hono.svg?style=flat-square) [`@kiyasov/platform-hono`](https://github.com/kiyasov/platform-hono) ⭐ 176 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-09 - Hono HTTP adapter.
+* ![](https://img.shields.io/github/stars/kiyasov/platform-hono.svg?style=flat-square) [`@kiyasov/platform-hono`](https://github.com/kiyasov/platform-hono) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-09 - Hono HTTP adapter.
 * ![](https://img.shields.io/github/stars/FOSSFORGE/uWestJS.svg?style=flat-square) [`uwestjs`](https://github.com/FOSSFORGE/uWestJS) ⭐ 39 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-02 - HTTP and WebSocket platform adapter on uWebSockets.js.
-* ![](https://img.shields.io/github/stars/nigrosimone/fulmine.js.svg?style=flat-square) [`fulmine.js/nest`](https://github.com/nigrosimone/fulmine.js) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-23 - Express 5 compatible adapter on uWebSockets.js, a drop-in for `@nestjs/platform-express`.
+* ![](https://img.shields.io/github/stars/nigrosimone/fulmine.js.svg?style=flat-square) [`fulmine.js/nest`](https://github.com/nigrosimone/fulmine.js) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24 - Express 5 compatible adapter on uWebSockets.js, a drop-in for `@nestjs/platform-express`.
 
 #### Dialogflow :satellite:
 
@@ -322,7 +324,7 @@
 #### Logging
 
 * ![](https://img.shields.io/github/stars/iamolegga/nestjs-pino.svg?style=flat-square) [`nestjs-pino`](https://github.com/iamolegga/nestjs-pino) ⭐ 1,549 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21 - Pino module for NestJS Log with request context in any place.
-* ![](https://img.shields.io/github/stars/gremo/nest-winston.svg?style=flat-square) [`nest-winston`](https://github.com/gremo/nest-winston) ⭐ 733 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - Winston module for NestJS.
+* ![](https://img.shields.io/github/stars/gremo/nest-winston.svg?style=flat-square) [`nest-winston`](https://github.com/gremo/nest-winston) ⭐ 733 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-23 - Winston module for NestJS.
 * ![](https://img.shields.io/github/stars/jmcdo29/ogma.svg?style=flat-square) [`@ogma/*`](https://github.com/jmcdo29/ogma) ⭐ 306 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-10 - A monorepo for the Ogma logger and related packages.
 
 #### Monitoring
@@ -337,12 +339,12 @@
 * ![](https://img.shields.io/github/stars/nestjs/observe.svg?style=flat-square) [`@nestjs/observe`](https://github.com/nestjs/observe) ⭐ 44 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - Official observability and APM agent for NestJS - error tracking, distributed traces, runtime metrics and CPU profiles.
 * ![](https://img.shields.io/github/stars/netanelavr/nestjs-metrics-reporter.svg?style=flat-square) [`nestjs-metrics-reporter`](https://github.com/netanelavr/nestjs-metrics-reporter) ⭐ 41 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 - A zero-dependency-injection global metrics reporter for NestJS.
 * ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-healthz`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/healthz) ⭐ 35 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-19 - Self-mounting health check module with cross-module attestor discovery and Kubernetes-style probes.
-* ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-hot-shots.svg?style=flat-square) [`nestjs-hot-shots`](https://github.com/SocketSomeone/nestjs-hot-shots) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Hot-shots Module for NestJS. A Node.js client for Etsy's StatsD server, Datadog's DogStatsD server, and InfluxDB's Telegraf StatsD server.
+* ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-hot-shots.svg?style=flat-square) [`nestjs-hot-shots`](https://github.com/SocketSomeone/nestjs-hot-shots) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23 - Hot-shots Module for NestJS. A Node.js client for Etsy's StatsD server, Datadog's DogStatsD server, and InfluxDB's Telegraf StatsD server.
 * ![](https://img.shields.io/github/stars/eleven-labs/nest-profiler.svg?style=flat-square) [`@eleven-labs/nest-profiler`](https://github.com/eleven-labs/nest-profiler) ⭐ 18 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-18 - Symfony Web Profiler-inspired devtools panel to inspect requests, logs, exceptions, database queries and performance spans in real time, through an extensible collector architecture.
 
 #### Internationalization (i18n)
 
-* ![](https://img.shields.io/github/stars/ToonvanStrijp/nestjs-i18n.svg?style=flat-square) [`nestjs-i18n`](https://github.com/ToonvanStrijp/nestjs-i18n) ⭐ 722 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27 - Adds i18n support easily to your server, with a rich formatting api build in.
+* ![](https://img.shields.io/github/stars/ToonvanStrijp/nestjs-i18n.svg?style=flat-square) [`nestjs-i18n`](https://github.com/ToonvanStrijp/nestjs-i18n) ⭐ 721 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27 - Adds i18n support easily to your server, with a rich formatting api build in.
 * ![](https://img.shields.io/github/stars/aymericzip/intlayer.svg?style=flat-square) [`intlayer`](https://intlayer.org/doc/environment/nest) - Scoped i18n for error handling, response message and email templates.
 
 #### Currency
@@ -351,17 +353,17 @@
 
 #### Event
 
-* [`@nestjs/event-emitter`](https://github.com/nestjs/event-emitter) ⭐ 250 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - Official event emitter module for NestJS based on eventemitter2.
+* [`@nestjs/event-emitter`](https://github.com/nestjs/event-emitter) ⭐ 250 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-24 - Official event emitter module for NestJS based on eventemitter2.
 * ![](https://img.shields.io/github/stars/yak0/nest-event.svg?style=flat-square) [`nest-event`](https://github.com/yak0/nest-event) ⭐ 148 | 🐛 12 | 🌐 TypeScript | 📅 2023-05-10 - Event handling with decorators for NestJS Framework.
 
 #### Auth
 
 * ![](https://img.shields.io/github/stars/iamolegga/nestjs-session.svg?style=flat-square) [`nestjs-session`](https://github.com/iamolegga/nestjs-session) ⭐ 251 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-21 - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session).
-* ![](https://img.shields.io/github/stars/lokicoule/nestjs-cognito.svg?style=flat-square) [`@nestjs-cognito/auth`](https://github.com/Lokicoule/nestjs-cognito) ⭐ 109 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-22 - Complete AWS Cognito authentication and authorization solution for NestJS. Supports REST, GraphQL, WebSocket with JWT verification, guards, decorators and testing utilities.
+* ![](https://img.shields.io/github/stars/lokicoule/nestjs-cognito.svg?style=flat-square) [`@nestjs-cognito/auth`](https://github.com/Lokicoule/nestjs-cognito) ⭐ 109 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-23 - Complete AWS Cognito authentication and authorization solution for NestJS. Supports REST, GraphQL, WebSocket with JWT verification, guards, decorators and testing utilities.
 
 #### Reliability
 
-* ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-resilience.svg?style=flat-square) [`nestjs-resilience`](https://github.com/SocketSomeone/nestjs-resilience) ⭐ 336 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - A module for improving the reliability and fault-tolerance of your NestJS applications.
+* ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-resilience.svg?style=flat-square) [`nestjs-resilience`](https://github.com/SocketSomeone/nestjs-resilience) ⭐ 336 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - A module for improving the reliability and fault-tolerance of your NestJS applications.
 * ![](https://img.shields.io/github/stars/hienngm/nestjs-graceful-shutdown.svg?style=flat-square) [`nestjs-graceful-shutdown`](https://github.com/hienngm/nestjs-graceful-shutdown) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-28 - A powerful package for gracefully shutting down NestJS applications.
 
 #### RBAC (Role-based access control)
@@ -379,7 +381,7 @@
 * ![](https://img.shields.io/github/stars/p-fedyukovich/nestjs-google-pubsub-microservice.svg?style=flat-square) [`nestjs-google-pubsub-microservice`](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice) ⭐ 103 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-03 - Custom Google Cloud Pub/Sub microservice transport
 * ![](https://img.shields.io/github/stars/pvarentsov/nestjs-pg-notify.svg?style=flat-square) [`nestjs-pg-notify`](https://github.com/pvarentsov/nestjs-pg-notify) ⭐ 89 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-12 - NestJS custom transport strategy for PostgreSQL Pub/Sub.
 * ![](https://img.shields.io/github/stars/sergey-telpuk/nestjs-transport-eventbus.svg?style=flat-square) [`nestjs-transport-eventbus`](https://github.com/sergey-telpuk/nestjs-transport-eventbus) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-06 - The module for Nest to allow broadcasting events via variety of nestjs trasports in easy way
-* ![](https://img.shields.io/github/stars/HorizonRepublic/nestjs-jetstream.svg?style=flat-square) [`@horizon-republic/nestjs-jetstream`](https://github.com/HorizonRepublic/nestjs-jetstream) ⭐ 24 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 - Drop-in NATS JetStream transport — persistent events, broadcast, ordered delivery, and RPC via standard NestJS patterns.
+* ![](https://img.shields.io/github/stars/HorizonRepublic/nestjs-jetstream.svg?style=flat-square) [`@horizon-republic/nestjs-jetstream`](https://github.com/HorizonRepublic/nestjs-jetstream) ⭐ 24 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Drop-in NATS JetStream transport — persistent events, broadcast, ordered delivery, and RPC via standard NestJS patterns.
 
 #### Database
 
@@ -389,12 +391,12 @@
 
 #### Collections of examples
 
-* [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs) ⭐ 3,012 | 🐛 23 | 🌐 TypeScript | 📅 2025-04-27 - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
+* [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs) ⭐ 3,011 | 🐛 23 | 🌐 TypeScript | 📅 2025-04-27 - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
 
 #### Utilities
 
-* ![](https://img.shields.io/github/stars/keploy/keploy.svg?style=flat-square) [Keploy](https://github.com/keploy/keploy) ⭐ 19,970 | 🐛 782 | 🌐 Go | 📅 2026-11-23 - Records real requests through a running NestJS app and replays them as tests with dependency mocks in isolated sandboxes.
-* ![](https://img.shields.io/github/stars/suites-dev/suites.svg?style=flat-square) [Suites](https://github.com/suites-dev/suites) ⭐ 546 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-23 - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
+* ![](https://img.shields.io/github/stars/keploy/keploy.svg?style=flat-square) [Keploy](https://github.com/keploy/keploy) ⭐ 19,984 | 🐛 783 | 🌐 Go | 📅 2026-11-24 - Records real requests through a running NestJS app and replays them as tests with dependency mocks in isolated sandboxes.
+* ![](https://img.shields.io/github/stars/suites-dev/suites.svg?style=flat-square) [Suites](https://github.com/suites-dev/suites) ⭐ 546 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 * ![](https://img.shields.io/github/stars/ts-oas/nest-openapi.svg?style=flat-square) [`@nest-openapi/mock`](https://github.com/ts-oas/nest-openapi) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - Spec-driven mock server utility for generating realistic mock responses from OpenAPI specifications. ([Documentation](https://nest-openapi.github.io/mock/))
 * ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/ts-jest`](https://www.npmjs.com/package/@golevelup/ts-jest) and [`@golevelup/ts-vitest`](https://www.npmjs.com/package/@golevelup/ts-vitest) - Utilities for making testing NestJS applications easier. Currently supports Jest and Vitest
 * ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
@@ -411,15 +413,15 @@
 
 #### Databases
 
-* [`@nestjs/typeorm`](https://github.com/nestjs/typeorm) ⭐ 2,170 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - A TypeORM module for Nest framework \[[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
-* [`@nestjs/mongoose`](https://github.com/nestjs/mongoose) ⭐ 572 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-23 - A Mongoose module for Nest framework.
+* [`@nestjs/typeorm`](https://github.com/nestjs/typeorm) ⭐ 2,170 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - A TypeORM module for Nest framework \[[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+* [`@nestjs/mongoose`](https://github.com/nestjs/mongoose) ⭐ 573 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-24 - A Mongoose module for Nest framework.
 * ![](https://img.shields.io/github/stars/mikro-orm/nestjs.svg?style=flat-square) [`@mikro-orm/nestjs`](https://github.com/mikro-orm/nestjs) ⭐ 297 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
-* ![](https://img.shields.io/github/stars/kpfromer/nestjs-typegoose.svg?style=flat-square) [`nestjs-typegoose`](https://github.com/kpfromer/nestjs-typegoose) ⭐ 287 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-20 - A [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,311 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-05 module for Nest framework.
+* ![](https://img.shields.io/github/stars/kpfromer/nestjs-typegoose.svg?style=flat-square) [`nestjs-typegoose`](https://github.com/kpfromer/nestjs-typegoose) ⭐ 287 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-23 - A [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,311 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-24 module for Nest framework.
 * ![](https://img.shields.io/github/stars/knaadh/nestjs-drizzle.svg?style=flat-square) [`nestjs-drizzle`](https://github.com/knaadh/nestjs-drizzle) ⭐ 234 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-17 - A [Drizzle ORM](https://orm.drizzle.team/) module for Nest.
-* ![](https://img.shields.io/github/stars/liberation-data/drivine.svg?style=flat-square) [`@liberation-data/drivine`](https://github.com/liberation-data/drivine) ⭐ 175 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-23 - Graph database client with an object manager and typed query DSL, for Neo4j, Memgraph, FalkorDB, and Postgres or Oracle with Cypher compiled to SQL.
+* ![](https://img.shields.io/github/stars/liberation-data/drivine.svg?style=flat-square) [`@liberation-data/drivine`](https://github.com/liberation-data/drivine) ⭐ 175 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-24 - Graph database client with an object manager and typed query DSL, for Neo4j, Memgraph, FalkorDB, and Postgres or Oracle with Cypher compiled to SQL.
 * ![](https://img.shields.io/github/stars/alphamikle/nest_transact.svg?style=flat-square) [`nest-transact`](https://github.com/alphamikle/nest_transact) ⭐ 119 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-05 - The simplest transactions using with Nest and TypeORM
 * ![](https://img.shields.io/github/stars/owl1n/typeorm-factories.svg?style=flat-square) [`typeorm-factories`](https://github.com/owl1n/typeorm-factories) ⭐ 48 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-24 - A TypeORM Entities factories. Useful for NestJS unit testing.
-* ![](https://img.shields.io/github/stars/GrapeoffJS/kindagoose.svg?style=flat-square) [`kindagoose`](https://github.com/GrapeoffJS/kindagoose) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2025-05-25 - A fresh [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,311 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-05 integration with NestJS that supports dependency injection in hooks.
+* ![](https://img.shields.io/github/stars/GrapeoffJS/kindagoose.svg?style=flat-square) [`kindagoose`](https://github.com/GrapeoffJS/kindagoose) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2025-05-25 - A fresh [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,311 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-24 integration with NestJS that supports dependency injection in hooks.
 * ![](https://img.shields.io/github/stars/alpha018/nestjs-redisom.svg?style=flat-square) [`@alpha018/nestjs-redisom`](https://github.com/alpha018/nestjs-redisom) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - A [RedisOM](https://redis.io/docs/latest/integrate/redisom-for-node-js/) module for NestJS, enabling object mapping and fluent query building for Redis.
 * ![](https://img.shields.io/github/stars/hyperloris/nestjs-tile38.svg?style=flat-square) [`nestjs-tile38`](https://github.com/hyperloris/nestjs-tile38) ⭐ 12 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-14 - A [Tile38](https://tile38.com) module for Nest framework.
 * [Nest Prisma](https://www.prisma.io/nestjs) - A Fully Type-Safe ORM for [NestJS](https://docs.nestjs.com/recipes/prisma).
@@ -433,8 +435,8 @@
 #### Pattern
 
 * ![](https://img.shields.io/github/stars/nestjsx/nestjs-typeorm-paginate.svg?style=flat-square) [`nestjs-typeorm-paginate`](https://github.com/nestjsx/nestjs-typeorm-paginate) ⭐ 878 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-16 - A simple function and interfaces for pagination.
-* ![](https://img.shields.io/github/stars/ppetzold/nestjs-paginate.svg?style=flat-square) [`nestjs-paginate`](https://github.com/ppetzold/nestjs-paginate) ⭐ 588 | 🐛 88 | 🌐 TypeScript | 📅 2026-11-21 - Pagination and filtering helper method for TypeORM repositories or query builders.
-* ![](https://img.shields.io/github/stars/Insidexa/nestjs-rpc.svg?style=flat-square) [`@jashkasoft/nestjs-json-rpc`](https://github.com/Insidexa/nestjs-rpc) ⭐ 63 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-17 - JSON RPC transport layer for the NestJS framework.
+* ![](https://img.shields.io/github/stars/ppetzold/nestjs-paginate.svg?style=flat-square) [`nestjs-paginate`](https://github.com/ppetzold/nestjs-paginate) ⭐ 588 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-24 - Pagination and filtering helper method for TypeORM repositories or query builders.
+* ![](https://img.shields.io/github/stars/Insidexa/nestjs-rpc.svg?style=flat-square) [`@jashkasoft/nestjs-json-rpc`](https://github.com/Insidexa/nestjs-rpc) ⭐ 63 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-23 - JSON RPC transport layer for the NestJS framework.
 
 #### Editors
 
@@ -454,7 +456,7 @@
 
 #### EventStore
 
-* ![](https://img.shields.io/github/stars/ocoda/event-sourcing.svg?style=flat-square) [`@ocoda/event-sourcing`](https://github.com/ocoda/event-sourcing) ⭐ 273 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-23 - Event Sourcing, CQRS and DDD building blocks with typed command and query buses, snapshots, and event stores for PostgreSQL, MariaDB and MongoDB that read all events in order.
+* ![](https://img.shields.io/github/stars/ocoda/event-sourcing.svg?style=flat-square) [`@ocoda/event-sourcing`](https://github.com/ocoda/event-sourcing) ⭐ 273 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 - Event Sourcing, CQRS and DDD building blocks with typed command and query buses, snapshots, and event stores for PostgreSQL, MariaDB and MongoDB that read all events in order.
 * ![](https://img.shields.io/github/stars/juicycleff/nestjs-event-store.svg?style=flat-square) [`@juicycleff/nestjs-event-store`](https://github.com/juicycleff/nestjs-event-store) ⭐ 205 | 🐛 26 | 🌐 TypeScript | 📅 2022-10-24 - An evenstore.org module for NestJS CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
 * ![](https://img.shields.io/github/stars/PrestaShopCorp/nestjs-geteventstore.svg?style=flat-square) [`nestjs-geteventstore` by PrestaShopCorp](https://github.com/PrestaShopCorp/nestjs-geteventstore) ⭐ 33 | 🐛 29 | 🌐 TypeScript | 📅 2023-03-06 - An evenstore.org module for NestJS CQRS with Projects and Subscriptions. Supports Eventstore 21.10.0+
 * ![](https://img.shields.io/github/stars/NickTsitlakidis/event-nest.svg?style=flat-square) [`@event-nest/core`](https://github.com/NickTsitlakidis/event-nest) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - A collection of NestJs libraries to help you build applications based on event sourcing with PostgreSQL or MongoDB.
@@ -468,12 +470,12 @@
 
 * ![](https://img.shields.io/github/stars/SoftwareBrothers/admin-bro-nestjs.svg?style=flat-square) [`@adminjs/nestjs`](https://github.com/SoftwareBrothers/admin-bro-nestjs) ⭐ 179 | 🐛 26 | 🌐 TypeScript | 📅 2025-10-02 - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro) ⭐ 9,000 | 🐛 223 | 🌐 TypeScript | 📅 2025-07-15, an automatic admin interface which can be plugged into your application.
 * ![](https://img.shields.io/github/stars/rayman1104/ra-data-nestjsx-crud.svg?style=flat-square) [`ra-data-nestjsx-crud`](https://github.com/rayman1104/ra-data-nestjsx-crud) ⭐ 107 | 🐛 26 | 🌐 TypeScript | 📅 2026-06-17 - Data provider which integrates React Admin with [NextJS CRUD](https://github.com/nestjsx/crud) ⭐ 4,318 | 🐛 289 | 🌐 TypeScript | 📅 2026-10-13 library.
-* ![](https://img.shields.io/github/stars/ForestAdmin/agent-nodejs.svg?style=flat-square) [`@forestadmin/agent`](https://github.com/ForestAdmin/agent-nodejs) ⭐ 86 | 🐛 134 | 🌐 TypeScript | 📅 2026-11-23 - NestJS compatible plugin for [Forest Admin](https://www.forestadmin.com), an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
+* ![](https://img.shields.io/github/stars/ForestAdmin/agent-nodejs.svg?style=flat-square) [`@forestadmin/agent`](https://github.com/ForestAdmin/agent-nodejs) ⭐ 86 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-24 - NestJS compatible plugin for [Forest Admin](https://www.forestadmin.com), an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
 
 #### Scheduling
 
-* [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) ⭐ 708 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-23 - A Bull module for Nest framework.
-* [`@nestjs/schedule`](https://github.com/nestjs/schedule) ⭐ 428 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-23 - Official schedule module for NestJS providing cron jobs, timeouts, and intervals.
+* [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) ⭐ 708 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-24 - A Bull module for Nest framework.
+* [`@nestjs/schedule`](https://github.com/nestjs/schedule) ⭐ 429 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - Official schedule module for NestJS providing cron jobs, timeouts, and intervals.
 
 #### Workflow Automation
 
@@ -483,10 +485,10 @@
 
 #### Chatbots
 
-* ![](https://img.shields.io/github/stars/bukhalo/nestjs-telegraf.svg?style=flat-square) [`nestjs-telegraf`](https://github.com/bukhalo/nestjs-telegraf) ⭐ 628 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-29 - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,211 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-16.
-* ![](https://img.shields.io/github/stars/necordjs/necord.svg?style=flat-square) [`necord`](https://github.com/necordjs/necord) ⭐ 501 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,840 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-23.
-  * ![](https://img.shields.io/github/stars/necordjs/pagination.svg?style=flat-square) [`@necord/pagination`](https://github.com/necordjs/pagination) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23 - A lightweight Pagination module for [Necord](https://github.com/necordjs/necord) ⭐ 501 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23.
-  * ![](https://img.shields.io/github/stars/necordjs/localization.svg?style=flat-square) [`@necord/localization`](https://github.com/necordjs/localization) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - Localize your Discord bot with [Necord](https://github.com/necordjs/necord) ⭐ 501 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23.
+* ![](https://img.shields.io/github/stars/bukhalo/nestjs-telegraf.svg?style=flat-square) [`nestjs-telegraf`](https://github.com/bukhalo/nestjs-telegraf) ⭐ 628 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-29 - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,212 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-16.
+* ![](https://img.shields.io/github/stars/necordjs/necord.svg?style=flat-square) [`necord`](https://github.com/necordjs/necord) ⭐ 501 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,837 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-24.
+  * ![](https://img.shields.io/github/stars/necordjs/pagination.svg?style=flat-square) [`@necord/pagination`](https://github.com/necordjs/pagination) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - A lightweight Pagination module for [Necord](https://github.com/necordjs/necord) ⭐ 501 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24.
+  * ![](https://img.shields.io/github/stars/necordjs/localization.svg?style=flat-square) [`@necord/localization`](https://github.com/necordjs/localization) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-24 - Localize your Discord bot with [Necord](https://github.com/necordjs/necord) ⭐ 501 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24.
 * ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/chat`](https://nestia.io/docs/swagger/chat/) - Super A.I. chatbot by Swagger Document. Chat with your backend server with a transformation strategy from OpenAPI operations to the LLM function calling schemas.
 
 #### File Storage
@@ -502,7 +504,7 @@
 
 #### SDK
 
-* ![](https://img.shields.io/github/stars/basementstudio/xmcp.svg?style=flat-square) [`xmcp`](https://github.com/basementstudio/xmcp) ⭐ 1,354 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - Expose file-based tools, resources, and prompts through the [MCP adapter](https://xmcp.dev/docs/adapters/nestjs).
+* ![](https://img.shields.io/github/stars/basementstudio/xmcp.svg?style=flat-square) [`xmcp`](https://github.com/basementstudio/xmcp) ⭐ 1,354 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-24 - Expose file-based tools, resources, and prompts through the [MCP adapter](https://xmcp.dev/docs/adapters/nestjs).
 * ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-admin.svg?style=flat-square) [`@tfarras/nestjs-firebase-admin`](https://github.com/tfarras/nestjs-firebase-admin) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2021-11-26 - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/).
 
 ## Runtime
@@ -510,9 +512,9 @@
 #### Command Line / Terminal
 
 * ![](https://img.shields.io/github/stars/cortex-docs/cortex.svg?style=flat-square) [`@cortex-docs/cli`](https://github.com/cortex-docs/cortex) ⭐ 3,285 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Generates interactive documentation and typed SDKs from the OpenAPI document exposed by `@nestjs/swagger`.
-* [`@nestjs/cli`](https://github.com/nestjs/nest-cli) ⭐ 2,209 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-23 - CLI tool for NestJS applications.
+* [`@nestjs/cli`](https://github.com/nestjs/nest-cli) ⭐ 2,209 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24 - CLI tool for NestJS applications.
 * ![](https://img.shields.io/github/stars/Pop-Code/nestjs-console.svg?style=flat-square) [`nestjs-console`](https://github.com/Pop-Code/nestjs-console) ⭐ 578 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - A NestJS module that provide a cli to application.
-* ![](https://img.shields.io/github/stars/jmcdo29/nest-commander.svg?style=flat-square) [`nest-commander`](https://github.com/jmcdo29/nest-commander) ⭐ 488 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-23 - A module for using NestJS to build up CLI applications
+* ![](https://img.shields.io/github/stars/jmcdo29/nest-commander.svg?style=flat-square) [`nest-commander`](https://github.com/jmcdo29/nest-commander) ⭐ 488 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-24 - A module for using NestJS to build up CLI applications
 * ![](https://img.shields.io/github/stars/LoneStone/nest-sdk-generator.svg?style=flat-square) [`nest-sdk-generator`](https://github.com/lonestone/nest-sdk-generator) ⭐ 102 | 🐛 8 | 🌐 TypeScript | 📅 2022-11-21 - A command-line utility to generate a fully typed SDK from a Nest.js REST API
 * ![](https://img.shields.io/github/stars/ashinzekene/generator-nestjs-app.svg?style=flat-square) [`generator-nestjs-app`](https://github.com/ashinzekene/generator-nestjs-app) ⭐ 56 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-24 - A yeoman generator for NestJS apps.
 
@@ -534,4 +536,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
